@@ -97,7 +97,7 @@
     "primary": {
       "type": "button",
       "label": "Get Started Free",
-      "href": "/quickstart"
+      "href": "https://ryzenth.mintlify.app/quickstart"
     }
   },
   "contextual": {
