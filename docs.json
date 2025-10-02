@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/Ryzenth1.svg",
-    "dark": "/logo/Ryzenth1.svg"
+    "light": "",
+    "dark": ""
   },
   "navbar": {
     "links": [
