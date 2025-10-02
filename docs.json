@@ -1,11 +1,27 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "RyzenAI Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#00D4AA",
+    "light": "#00F5D4",
+    "dark": "#00B894",
+    "background": {
+      "dark": "#0A0A0F",
+      "light": "#FAFAFA"
+    },
+    "tint": {
+      "dark": "#111117",
+      "light": "#FFFFFF"
+    },
+    "shade": {
+      "dark": "#1A1A23",
+      "light": "#F0F0F0"
+    },
+    "text": {
+      "dark": "#E0E0E0",
+      "light": "#1A1A1A"
+    }
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -91,13 +107,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@ryzenths.dpdns.org"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Get Started Free",
+      "href": "/quickstart"
     }
   },
   "contextual": {
@@ -114,9 +130,14 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/ryzenai",
+      "github": "https://github.com/ryzenai",
+      "linkedin": "https://linkedin.com/company/ryzenai",
+      "discord": "https://discord.gg/ryzenai"
     }
+  },
+  "topAnnouncement": {
+    "text": "🚀 Get started instantly - No credit card required!",
+    "href": "/quickstart"
   }
 }
