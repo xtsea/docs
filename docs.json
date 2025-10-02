@@ -91,7 +91,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@ryzenths.dpdns.org"
+        "href": "support@ryzenths.dpdns.org"
       }
     ],
     "primary": {
@@ -114,10 +114,9 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/ryzenai",
-      "github": "https://github.com/ryzenai",
-      "linkedin": "https://linkedin.com/company/ryzenai",
-      "discord": "https://discord.gg/ryzenai"
+      "x": "https://x.com/Ryzenth",
+      "github": "https://github.com/Ryzenth",
+      "linkedin": "https://linkedin.com/company/Ryzenth"
     }
   }
 }
