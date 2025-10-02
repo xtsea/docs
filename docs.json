@@ -9,18 +9,6 @@
     "background": {
       "dark": "#0A0A0F",
       "light": "#FAFAFA"
-    },
-    "tint": {
-      "dark": "#111117",
-      "light": "#FFFFFF"
-    },
-    "shade": {
-      "dark": "#1A1A23",
-      "light": "#F0F0F0"
-    },
-    "text": {
-      "dark": "#E0E0E0",
-      "light": "#1A1A1A"
     }
   },
   "favicon": "/favicon.svg",
