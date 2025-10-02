@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#00D4AA",
     "light": "#00F5D4",
-    "dark": "#00B894",
+    "dark": "#00B894"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -119,9 +119,5 @@
       "linkedin": "https://linkedin.com/company/ryzenai",
       "discord": "https://discord.gg/ryzenai"
     }
-  },
-  "topAnnouncement": {
-    "text": "🚀 Get started instantly - No credit card required!",
-    "href": "/quickstart"
   }
 }
