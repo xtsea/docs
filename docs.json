@@ -17,24 +17,7 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "quickstart"
             ]
           },
           {
@@ -72,12 +55,12 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://api.ryzenths.dpdns.org/api-doc",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://ryzenths.dpdns.org/blog",
           "icon": "newspaper"
         }
       ]
@@ -111,7 +94,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/Ryzenth",
-      "github": "https://github.com/Ryzenth",
+      "github": "https://github.com/TeamKillerX/Ryzenth",
       "linkedin": "https://linkedin.com/company/Ryzenth"
     }
   }
